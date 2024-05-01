@@ -1,0 +1,64 @@
+.one{
+    height: 100vh;
+    background-color: rgb(9, 2, 33);
+    color: white;
+  }
+  .intro{
+    width: 40vw;
+    text-align: right;
+    margin: 0px 0px 0px -100px ;
+  }
+  .intro h1{
+    font-size: 40px;
+    margin-top: 100px;
+  }
+  .intro h2{
+    margin-top: -10px;
+    font-size: 25px;
+    color: gray;
+    font-weight: 600;
+  }
+  .in{
+    margin-top: 50px;
+  }
+  .country{
+    margin-left: 270px;
+    display: flex;
+  }
+  .country h2{
+    font-size: 20px;
+    color: gray;
+  }
+  .card{
+    display: flex;
+    width: 80vw;
+    margin: 20px 0px 0px 170px ;
+    height: 40vh;
+    border-radius: 20px;
+    background-color: rgb(21, 21, 21);
+  }
+  .cright{
+    width: 20vw;
+    font-size: 15px;
+    margin-top: 10px;
+    margin-left: 25vw;
+  }
+  .cright p{
+    font-weight: lighter;
+  }
+  .line{
+    font-size:8px ;
+    font-weight: 900;
+    display: flex;
+    flex-direction: row;
+    margin: -1px 0px 0px 50px ;
+  }
+  .small h4{
+    color: gray;
+    font-size: 11px;
+    font-weight: lighter;
+    padding-left: 10px;
+  }
+  .small{
+    width: 313px;
+  }

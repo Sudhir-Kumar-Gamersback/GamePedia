@@ -1,9 +1,9 @@
 import React from 'react'
-import SearchAppBar from './components/Navbar'
+import ProfilePage from './components/ProfilePage'
 const App = () => {
   return (
     <div>
-      <SearchAppBar />
+      <ProfilePage/>
     </div>
   )
 }
